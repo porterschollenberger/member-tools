@@ -4,7 +4,7 @@
 ![member-tools](https://github.com/user-attachments/assets/de345a13-1a72-424e-b069-129073fa4a95)
 
 ## System Design
-![member-tools](https://github.com/user-attachments/assets/6085639d-756f-4357-9f11-d36796ea5f1c)
+<img width="939" alt="member-tools-system" src="https://github.com/user-attachments/assets/3cc80325-f551-4dc9-b447-6d7824c51cd7" />
 
 ## Initial Goals
 * **3/19:**
